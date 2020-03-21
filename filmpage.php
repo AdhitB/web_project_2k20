@@ -8,6 +8,7 @@
 <link href="css/mystyle.css" rel="stylesheet" type="text/css" media="all"/>
 
 <style>
+
 	.center {
     text-align: center;
 }
